@@ -1,0 +1,8 @@
+opencv-python
+opencv-python-headless
+Pillow
+tk
+ultralytics
+cvzone
+numpy
+openai
